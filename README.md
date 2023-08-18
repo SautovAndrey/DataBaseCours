@@ -9,6 +9,9 @@
 
 ![Демонстрация приложения](https://github.com/SautovAndrey/DataBaseCours/raw/main/softDB.gif)
 
+![Скриншот приложения](https://github.com/SautovAndrey/DataBaseCours/raw/main/DB.jpg)
+
+
 ## Основные характеристики
 
 - **Графический интерфейс**: Простой и понятный интерфейс, который позволяет пользователям без проблем взаимодействовать с приложением (Swing для GUI).

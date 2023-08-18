@@ -1,6 +1,6 @@
 # DataBaseCours
 ---
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/SautovAndrey/DataBaseCours/blob/36c0582cded84e324204a1ff75791b665a2420bb/LICENSE)
 ![Java](https://img.shields.io/badge/Java-1.8-blue)
 ![Gradle](https://img.shields.io/badge/build-Gradle-blue)
 

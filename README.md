@@ -7,10 +7,9 @@
 
 Приложение `Employee Management` предоставляет интуитивно понятный графический интерфейс для управления информацией о сотрудниках. Разработано на языке Java с использованием библиотеки Swing для создания GUI и JDBC для взаимодействия с базой данных MySQL.
 
-![Демонстрация приложения](https://github.com/SautovAndrey/DataBaseCours/raw/main/softDB.gif)
+![Скриншот приложения](https://github.com/SautovAndrey/DataBaseCours/blob/e9002d291d7f613eaa969dd071088eaed47efa8d/DB.jpg)
 
-![Скриншот приложения](https://github.com/SautovAndrey/DataBaseCours/raw/main/DB.jpg)
-
+![Демонстрация приложения](https://github.com/SautovAndrey/DataBaseCours/blob/e9002d291d7f613eaa969dd071088eaed47efa8d/softDB.gif)
 
 ## Основные характеристики
 
